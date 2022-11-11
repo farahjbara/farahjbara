@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farahjbara
 - 👀 I’m interested in Cloud computing, DevOPs & Ml
-- 🌱 I’m currently a student in 3 year engineering
+- 🌱 I’m currently a student in 3rd year engineering
 - 💞️ I’m looking for an end of study internship
 - 📫 How to reach me : farahjbara1@gmail.com
 
