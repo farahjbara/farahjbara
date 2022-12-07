@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud computing, DevOPs & Ml
 - 🌱 I’m currently a student in 3rd year engineering
 - 💞️ I’m looking for an end of study internship
-- 📫 How to reach me: farahjbara1@gmail.com or linkedin :
+- 📫 How to reach me: farahjbara1@gmail.com 
 <!---
 farahjbara/farahjbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -21,4 +21,4 @@ You can click the Preview link to take a look at your changes.
 
 ## Where to find me
 
-[{{ linkedin.badge }}]({{ [linkedin.url](https://www.linkedin.com/in/farah-jbara/) }})
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-jbara/))
