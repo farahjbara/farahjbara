@@ -19,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-## Where to find me
+## 📲 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-jbara/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-jbara/)
+<br>
+[![Gmail](jbara.farah@isitc.u-sousse.tn)]
