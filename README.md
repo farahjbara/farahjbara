@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farahjbara
-- 👀 I’m interested in Cloud computing, DevOPs & Ml
+- 👀 I’m interested in Cloud computing & DevOPS 
 - 🌱 I’m currently a student in 3rd year engineering
 - 💞️ I’m looking for an end of study internship
 - 📫 How to contact me: jbara.farah@isitc.u-sousse.tn
