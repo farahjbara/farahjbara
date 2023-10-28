@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farahjbara
 - 👀 I’m interested in Cloud computing & DevOps 
 - 👩‍🎓 I'm a recent graduate eagerly seeking my first professional opportunity.
-    With a fresh perspective and a strong educational foundation, I'm ready to contribute my knowledge, skills, and enthusiasm to a dynamic team. 
+  <br>  With a fresh perspective and a strong educational foundation, I'm ready to contribute my knowledge, skills, and enthusiasm to a dynamic team. 
 - 📫 How to contact me: farahjbara1@gmail.com
 <!---
 farahjbara/farahjbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
