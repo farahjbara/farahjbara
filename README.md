@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @farahjbara
 - 👀 I’m interested in Cloud computing & DevOps 
-- 🌱 I’m currently a student in 3rd year engineering
-- 💞️ I’m looking for an end of study internship
-- 📫 How to contact me: jbara.farah@isitc.u-sousse.tn
+- 👩‍🎓 I'm a recent graduate eagerly seeking my first professional opportunity.
+    With a fresh perspective and a strong educational foundation, I'm ready to contribute my knowledge, skills, and enthusiasm to a dynamic team. 
+- 📫 How to contact me: farahjbara1@gmail.com
 <!---
 farahjbara/farahjbara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
