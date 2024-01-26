@@ -22,10 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" height="60" style="vertical-align:top; margin:4px">
 <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="Argocd" height="60" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Traefik.logo.png/1200px-Traefik.logo.png"  alt="Traefik" height="60" style="vertical-align:top; margin:4px">
-
-
-
-
+<img src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png"  alt="nginx" height="60" style="vertical-align:top; margin:4px">
 
 </p>
 
