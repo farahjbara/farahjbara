@@ -9,6 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+##  My Certifications 🏅
+* [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/b2b87151-0fb3-46fd-8560-31322b4beae1/public_url)
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b2b87151-0fb3-46fd-8560-31322b4beae1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px">
