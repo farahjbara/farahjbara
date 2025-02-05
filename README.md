@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px">
-<img src="https://gcloud.devoteam.com/wp-content/uploads/sites/32/2021/10/kubernetes-logo-1-1.svg" alt="kubernetes" height="60" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" height="60" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/H/helm-logo-9208DB3EE5-seeklogo.com.png" alt="Helm" height="60" style="vertical-align:top; margin:4px">
 <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="Argocd" height="60" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Traefik.logo.png/1200px-Traefik.logo.png"  alt="Traefik" height="60" style="vertical-align:top; margin:4px">
