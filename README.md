@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" height="60" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" height="60" style="vertical-align:top; margin:4px">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechicons.dev%2Ficons%2Fhelm&psig=AOvVaw0bArhDvIGzxHjFX3yThp7k&ust=1738863189215000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIil68GIrYsDFQAAAAAdAAAAABAE" alt="Helm" height="60" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/v2/resize:fit:512/1*H14eHLtlyMRyC3pEWXnTWA.png" alt="Helm" height="60" style="vertical-align:top; margin:4px">
 <img src="https://www.opsmx.com/wp-content/uploads/2022/07/Argo-1-e1630327305635-1.png" alt="Argocd" height="60" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Traefik.logo.png/1200px-Traefik.logo.png"  alt="Traefik" height="60" style="vertical-align:top; margin:4px">
 <img src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png"  alt="nginx" height="60" style="vertical-align:top; margin:4px">
