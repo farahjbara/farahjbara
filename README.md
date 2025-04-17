@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farahjbara
 - 👀 I’m interested in Cloud computing & DevOps 
-- 👩‍🎓 I'm a recent graduate eagerly seeking my first professional opportunity.
+- 👩‍🎓 I'm a software enginee.
   <br>  With a fresh perspective and a strong educational foundation, I'm ready to contribute my knowledge, skills, and enthusiasm to a dynamic team. 
 - 📫 How to contact me: farahjbara1@gmail.com
 <!---
