@@ -24,7 +24,7 @@ I enjoy turning complex infrastructures into something simple, reliable, and sca
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png"  alt="Prometheus" height="60" style="vertical-align:top; margin:4px">   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUxjtaFJ76OcfcQZ9B-Nose2CB0tLB6HutA&s"  alt="Grafana" height="60" style="vertical-align:top; margin:4px">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Traefik.logo.png/1200px-Traefik.logo.png"  alt="Traefik" height="60" style="vertical-align:top; margin:4px">  <img src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png"  alt="nginx" height="60" style="vertical-align:top; margin:4px">
 -  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="60" style="vertical-align:top; margin:4px">
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="60" style="vertical-align:top; margin:4px">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="60" style="vertical-align:top; margin:4px>
 
 
 **Programming & Scripting:**  
@@ -33,5 +33,5 @@ I enjoy turning complex infrastructures into something simple, reliable, and sca
 ## 📲 Where to find me
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-jbara/)
-- 📝 [Medium](https://medium.com/@farahjbara1)
+- [![Medium](https://img.shields.io/badge/Medium-12100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@farahjbara1)
 
