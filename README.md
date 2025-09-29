@@ -7,6 +7,10 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
+I’m a DevOps engineer with a passion for **automation, cloud technologies, and problem-solving**.  
+I enjoy turning complex infrastructures into something simple, reliable, and scalable.  
+
+
 ## 🏆 My Certifications 
 - ✅  [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/b2b87151-0fb3-46fd-8560-31322b4beae1/public_url)
 ##  📝 My Articles    
@@ -21,13 +25,12 @@ You can click the Preview link to take a look at your changes.
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" height="60" style="vertical-align:top; margin:4px"> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="60" style="vertical-align:top; margin:4px/>
 
- 
 
 **Programming & Scripting:**  
-- Python : <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
-- Bash   https://www.google.com/url?sa=i&url=https%3A%2F%2Fbashlogo.com%2F&psig=AOvVaw0vbaY0yKlebiCXEH_K9S8X&ust=1759224699747000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJjp6ezU_Y8DFQAAAAAdAAAAABAE
-
+- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="60" style="vertical-align:top; margin:4px">
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl2XOHuRidAitUaaEfkehZ7QN9xcub-4r0eg&s" alt=" Bash" height="60" style="vertical-align:top; margin:4px">
 ## 📲 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-jbara/)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-jbara/)
+- 📝 [Medium](https://medium.com/@farahjbara1)
 
